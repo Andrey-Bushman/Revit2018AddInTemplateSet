@@ -1,0 +1,8 @@
+C:\Users\andrey\Desktop\Revit2018AddInTemplateSet\Configurator\bin\CustomParameters.xml
+C:\Users\andrey\Desktop\Revit2018AddInTemplateSet\Configurator\bin\RevitAddInTemplateSet_Configurator.exe.config
+C:\Users\andrey\Desktop\Revit2018AddInTemplateSet\Configurator\bin\RevitAddInTemplateSet_Configurator.exe
+C:\Users\andrey\Desktop\Revit2018AddInTemplateSet\Configurator\bin\RevitAddInTemplateSet_Configurator.pdb
+C:\Users\andrey\Desktop\Revit2018AddInTemplateSet\Configurator\src\obj\Release\Bushman.RevitAddInTemplateSet_Configurator.Program.resources
+C:\Users\andrey\Desktop\Revit2018AddInTemplateSet\Configurator\src\obj\Release\RevitAddInTemplateSet_Configurator.csproj.GenerateResource.Cache
+C:\Users\andrey\Desktop\Revit2018AddInTemplateSet\Configurator\src\obj\Release\RevitAddInTemplateSet_Configurator.exe
+C:\Users\andrey\Desktop\Revit2018AddInTemplateSet\Configurator\src\obj\Release\RevitAddInTemplateSet_Configurator.pdb
