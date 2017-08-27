@@ -4,6 +4,15 @@ This is a set of Visual Studio 2017 templates for creating Revit 2018 add-in pro
 
 © Andrey Bushman, 2017, [blog in Russian](https://revit-addins.blogspot.ru/2017/02/revit-visual-studio.html)
 
+**WARNING!**
+
+After the templates installing you are to delete the directories:
+
+ * `%AppData%\Microsoft\VisualStudio\15.*\ItemTemplatesCache`
+ * `%AppData%\Microsoft\VisualStudio\15.*\ProjectTemplatesCache`
+
+ Visual Studio 2017 recreates they when you will create new project or add new item to a project.
+
 It contains:
 
 - Revit 2018 External Application (C# Project Template)
